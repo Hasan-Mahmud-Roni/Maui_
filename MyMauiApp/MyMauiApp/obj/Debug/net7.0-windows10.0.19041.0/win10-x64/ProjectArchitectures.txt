@@ -1,0 +1,1 @@
+E:\1271973\MAUI\Class_009\MyMauiApp\MyMauiApp\MyMauiApp.csproj;x64

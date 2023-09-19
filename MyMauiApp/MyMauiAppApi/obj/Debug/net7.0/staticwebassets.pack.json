@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\1271973\\MAUI\\Class_009\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\0pdwguma.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\0pdwguma.jpg"
+    },
+    {
+      "Id": "E:\\1271973\\MAUI\\Class_009\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "E:\\1271973\\MAUI\\Class_009\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\4lmec5xb.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\4lmec5xb.jpeg"
+    },
+    {
+      "Id": "E:\\1271973\\MAUI\\Class_009\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\dgrvdfyy.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\dgrvdfyy.jpg"
+    },
+    {
+      "Id": "E:\\1271973\\MAUI\\Class_009\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\giedcga5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\giedcga5.jpg"
+    },
+    {
+      "Id": "E:\\1271973\\MAUI\\Class_009\\MyMauiApp\\MyMauiAppApi\\wwwroot\\Pictures\\pmf50flo.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\pmf50flo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyMauiAppApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyMauiAppApi.props",
+      "PackagePath": "build\\MyMauiAppApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMauiAppApi.props",
+      "PackagePath": "buildMultiTargeting\\MyMauiAppApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyMauiAppApi.props",
+      "PackagePath": "buildTransitive\\MyMauiAppApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
